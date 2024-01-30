@@ -24,7 +24,7 @@ const App = () => {
         <div className='flex flex-col items-center space-y-6 pb-2 h-screen justify-center bg-purple-50 w-full '>
           <img className='h-64' src={personajes} alt='' />
           <p>¿Queres tu tematica preferida?</p>
-          <a href='https://wa.me/543513200517/' target='_blank'>
+          <a href='https://wa.me/543832461030/' target='_blank'>
             <Button color='black'>
               <span>Escribinos! </span>
             </Button>
