@@ -225,7 +225,7 @@ function DialogDefault({ open, handleOpen, img, codigoTarjeta }) {
           <span>Cerrar</span>
         </Button>
         <a
-          href={`https://wa.me/543513200517/?text=Hola estoy interasado/a en solicitar este modelo de tarjeta. Tarjeta Codigo: [${codigoTarjeta}]`}
+          href={`https://wa.me/543832461030/?text=Hola estoy interasado/a en solicitar este modelo de tarjeta. Tarjeta Codigo: [${codigoTarjeta}]`}
           target='_blank'
         >
           <Button color='green' onClick={handleOpen}>
